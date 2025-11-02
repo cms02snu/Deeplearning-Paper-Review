@@ -2,7 +2,7 @@
 This repository implements the content of the paper. Korean reviews of the paper are uploaded on [OUTTA AI Tech](https://blog.outta.ai/) blog.
 
 ## Reviews
-| Domain | Title | Review / Paper / Code |
+| Domain | Title | Review / Paper |
 |:---:|:---:|:---:|
 | Image-Generation/Diffusion | Deep Unsupervised Learning using Nonequilibrium Thermodynamics (arXiv 2015) | [Review](https://outta.tistory.com/109) <br> [Paper](https://arxiv.org/abs/1503.03585) |
 | Image-Generation/Diffusion | Generative Modeling by Estimating Gradients of the Data Distribution (NeurIPS 2019) | [Review](https://blog.outta.ai/141) <br> [Paper](https://arxiv.org/abs/1907.05600) |
