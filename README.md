@@ -1,5 +1,5 @@
 # Deeplearning-Paper-Review
-This repository implements the content of the paper. Korean reviews of the paper are uploaded on [OUTTA AI Tech](https://blog.outta.ai/) blog. Reviews are arranged chronically below.
+This repository implements the content of the paper. Korean reviews of the paper are uploaded on [OUTTA AI Tech](https://blog.outta.ai/) blog.
 
 ## Reviews
 | Title | Review / Paper / Code |
