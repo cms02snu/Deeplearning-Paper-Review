@@ -1,5 +1,6 @@
 # Deeplearning-Paper-Review
-This repository reviews deeplearning papers and implements the content of the paper as code.
+This repository implements the content of the paper.
+Korean reviews of the paper is uploaded on [OUTTA AI Tech](https://blog.outta.ai/) blog.
 
 ## Reviews
 | Title | Review / Paper / Code |
